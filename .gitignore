@@ -1,0 +1,4 @@
+.vagrant/*
+.DS_Store
+metastore_db
+derby.log
